@@ -16,7 +16,7 @@ To play hangman, duh!
 <br />
 <br />
 #### File structure:
-Just a bunch of text files really.
+Ignore all files apart from milestone_5.py - this is the file with the completed code inside.
 <br />
 <br />
 <br />
