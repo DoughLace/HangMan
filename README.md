@@ -6,12 +6,12 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 <br />
 <br />
 #### Install:
-To install simply pull the repo into a code editor like VSCode and run main.py 
+To install simply pull the repo into a code editor like VSCode and run milestone_5.py 
 <br />
 <br />
 <br />
 #### Usage:
-To play hangman, duh!
+To play hangman (albeit poorly), duh!
 <br />
 <br />
 <br />
